@@ -1,1 +1,1 @@
-my main.c and .hex files for robot car project. made using stm32cubeide. can be flashed onto board using stm32.
+my main.c and .hex files for robot car project. made using stm32cubeide. can be flashed(as I usually flash .hex file) onto board using flymcu.
